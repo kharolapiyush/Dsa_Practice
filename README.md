@@ -19,4 +19,8 @@ My Practicse Questions
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/kharolapiyush/Dsa_Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/kharolapiyush/Dsa_Practice/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
